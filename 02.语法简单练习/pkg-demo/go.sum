@@ -40,6 +40,8 @@ gitee.com/aurora-engine/aurora v1.3.19 h1:kGlH/YxQFQGEdhMXWyOZJLUi6JZ+eDZzNh3RNK
 gitee.com/aurora-engine/aurora v1.3.19/go.mod h1:1WZuDneX7vmcX8M1pm5SKzeyX+vCEBXMBWtnpV9YmQ0=
 gitee.com/aurora-engine/web v0.0.0-20230227154052-b43a26f7ebc3 h1:a28EvV2AoKo20t4FKAu/Nc2530MeuY0lTi+HiwPZyQw=
 gitee.com/aurora-engine/web v0.0.0-20230227154052-b43a26f7ebc3/go.mod h1:hBB+utvapCKAvhgIcbLtDxLvMfG68zDvfeiEJ/W6SlU=
+gitee.com/aurora-engine/web v0.0.1 h1:m+pWcoxNJM7yvB6Aa2qB6WyErQaQ1G74AJT6MsNd180=
+gitee.com/aurora-engine/web v0.0.1/go.mod h1:hBB+utvapCKAvhgIcbLtDxLvMfG68zDvfeiEJ/W6SlU=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/BurntSushi/xgb v0.0.0-20160522181843-27f122750802/go.mod h1:IVnqGOEym/WlBOVXweHU+Q+/VP0lqqI8lqeDx9IjBqo=
 github.com/census-instrumentation/opencensus-proto v0.2.1/go.mod h1:f6KPmirojxKA12rnyqOA5BBL4O983OfeGPqjHWSTneU=

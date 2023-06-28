@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	gitee.com/aurora-engine/aurora v1.3.19 // indirect
-	gitee.com/aurora-engine/web v0.0.0-20230227154052-b43a26f7ebc3 // indirect
+	gitee.com/aurora-engine/web v0.0.1 // indirect
 	github.com/fsnotify/fsnotify v1.5.4 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.2 // indirect
 	github.com/go-playground/locales v0.14.1 // indirect
